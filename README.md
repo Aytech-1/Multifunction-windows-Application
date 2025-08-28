@@ -1,10 +1,10 @@
-**Multifunction Windows Application**
+## Multifunction Windows Application
 
-📌 **Description**
+## 📌 Description
 
 This is a VB.NET Windows application that integrates multiple functionalities into a single platform. The project was developed to provide students, researchers, and professionals with quick access to essential tools in one interface.
 
-**Available Modules**
+## Available Modules
 
 🎓 **GPA Calculator (Afootech standard)** – Helps students compute their Grade Point Average efficiently.
 
@@ -18,7 +18,7 @@ This is a VB.NET Windows application that integrates multiple functionalities in
 
 🔄 **Unit Converter** – Converts between different units of measurement.
 
-✨ **Features**
+## ✨ Features
 
 User-friendly menu-driven console interface.
 
@@ -28,13 +28,13 @@ Lightweight and optimized for students, beginners, and researchers.
 
 Modular design for easy maintenance and feature expansion.
 
-🛠️ **Technologies Used**
+## 🛠️ Technologies Used
 
 VB.NET (Windows Forms Application)
 
 .NET Framework
 
-🚀** How to Run**
+## 🚀 How to Run
 
 Clone this repository:
 
@@ -47,7 +47,7 @@ Build the solution to restore dependencies.
 
 Run the application on Windows.
 
-📂 **Project Structure**
+## 📂 Project Structure
 
 **GPA Calculator** – GPA computation logic.
 
@@ -61,7 +61,7 @@ Run the application on Windows.
 
 **Unit Converter** – Measurement conversions.
 
-👨‍💻 **Author**
+## 👨‍💻 Author
 
 ADEYEMI AYOBAMI SAMSON
 
