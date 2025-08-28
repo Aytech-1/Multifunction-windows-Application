@@ -1,0 +1,27 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.xml
+c:\users\administrator\documents\visual studio 2010\Projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.pdb
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.exe
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.xml
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.pdb
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.exe
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.pdb
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.xml
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Form1.resources
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Resources.resources
+C:\old-files\Projects\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.vbproj.GenerateResource.Cache
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.exe
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.xml
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.pdb
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.exe
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.pdb
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\bin\Debug\Multi-function Windows.xml
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Form1.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi_function_Windows.Resources.resources
+C:\xampp\htdocs\AfooTECHproject\window-projects\Multi-function Windows\Multi-function Windows\obj\x86\Debug\Multi-function Windows.vbproj.GenerateResource.Cache
